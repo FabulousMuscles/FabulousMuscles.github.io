@@ -1,0 +1,17 @@
+{
+  "dependencies": {},
+  "description": "Личный проект «Кекстаграм» от HTML Academy",
+  "devDependencies": {
+    "eslint": "4.19.1",
+    "eslint-config-htmlacademy": "0.5.2"
+  },
+  "engines": {
+    "node": "8.11"
+  },
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "test": "eslint js/"
+  },
+  "version": "14.0.0"
+}
